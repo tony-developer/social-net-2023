@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.com/social-net-2023/static/css/main.5d1de529.css",
+    "main.js": "/github.com/social-net-2023/static/js/main.8b0fb1cd.js",
+    "index.html": "/github.com/social-net-2023/index.html",
+    "main.5d1de529.css.map": "/github.com/social-net-2023/static/css/main.5d1de529.css.map",
+    "main.8b0fb1cd.js.map": "/github.com/social-net-2023/static/js/main.8b0fb1cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d1de529.css",
+    "static/js/main.8b0fb1cd.js"
+  ]
+}
