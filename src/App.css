@@ -1,6 +1,6 @@
-ul li {
-  list-style-type: georgian;
-}
+/*ul li {*/
+/*  list-style-type: georgian;*/
+/*}*/
 .app-wrapper {
   display: grid;
   width: 1200px;
@@ -11,4 +11,6 @@ ul li {
   grid-template-rows: 60px 1fr;
   grid-template-columns:2fr 10fr;
 }
+.app-wrapper-content {
 
+}
